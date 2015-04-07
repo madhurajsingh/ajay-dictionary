@@ -1,0 +1,1 @@
+this is simple dictionary for translatation e to e
